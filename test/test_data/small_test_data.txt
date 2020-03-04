@@ -1,0 +1,11 @@
+sample_1    sample_2    sample_3    sample_4    sample_5    sample_6    sample_7    sample_8    sample_9    sample_10
+gene_1  1   2   3   4   5   6   7   8   9   10
+gene_2  2   3   4   5   6   7   8   9   10  11
+gene_3  3   4   5   6   7   8   9   10  11  12
+gene_4  4   5   6   7   8   9   10  11  12  13
+gene_5  5   6   7   8   9   10  11  12  13  14
+gene_6  6   7   8   9   10  11  12  13  14  15
+gene_7  7   8   9   10  11  12  13  14  15  16
+gene_8  8   9   10  11  12  13  14  15  16  17
+gene_9  9   10  11  12  13  14  15  16  17  18
+gene_10 10  11  12  13  14  15  16  17  18  19

@@ -1,0 +1,476 @@
+Sample	Subspecies	Genotype	IRGC_ID	GTAbbr	Time	Treatment	Treatment2	Treatment3	Tissue
+SRX1423934	Japonica	Azuenca	328	AZ	15	Control	Control	Control	leaf
+SRX1423935	Japonica	Azuenca	328	AZ	15	Control	Control	Control	leaf
+SRX1423936	Japonica	Azuenca	328	AZ	30	Control	Control	Control	leaf
+SRX1423937	Japonica	Azuenca	328	AZ	30	Control	Control	Control	leaf
+SRX1423938	Japonica	Azuenca	328	AZ	45	Control	Control	Control	leaf
+SRX1423939	Japonica	Azuenca	328	AZ	45	Control	Control	Control	leaf
+SRX1423940	Japonica	Azuenca	328	AZ	60	Control	Control	Control	leaf
+SRX1423941	Japonica	Azuenca	328	AZ	60	Control	Control	Control	leaf
+SRX1423942	Japonica	Azuenca	328	AZ	75	Control	Control	Control	leaf
+SRX1423943	Japonica	Azuenca	328	AZ	75	Control	Control	Control	leaf
+SRX1423944	Japonica	Azuenca	328	AZ	90	Control	Control	Control	leaf
+SRX1423945	Japonica	Azuenca	328	AZ	90	Control	Control	Control	leaf
+SRX1423946	Japonica	Azuenca	328	AZ	105	Control	Control	Control	leaf
+SRX1423947	Japonica	Azuenca	328	AZ	105	Control	Control	Control	leaf
+SRX1423948	Japonica	Azuenca	328	AZ	120	Control	Control	Control	leaf
+SRX1423949	Japonica	Azuenca	328	AZ	120	Control	Control	Control	leaf
+SRX1423950	Japonica	Azuenca	328	AZ	135	Control	Control	Control	leaf
+SRX1423951	Japonica	Azuenca	328	AZ	135	Control	Control	Control	leaf
+SRX1423952	Japonica	Azuenca	328	AZ	150	Control	Control	Control	leaf
+SRX1423953	Japonica	Azuenca	328	AZ	165	Control	Control	Control	leaf
+SRX1423954	Japonica	Azuenca	328	AZ	165	Control	Control	Control	leaf
+SRX1423955	Japonica	Azuenca	328	AZ	180	Control	Control	Control	leaf
+SRX1423956	Japonica	Azuenca	328	AZ	180	Control	Control	Control	leaf
+SRX1423957	Japonica	Azuenca	328	AZ	195	Control	Control	Control	leaf
+SRX1423958	Japonica	Azuenca	328	AZ	195	Control	Control	Control	leaf
+SRX1423959	Japonica	Azuenca	328	AZ	210	Control	Control	Control	leaf
+SRX1423960	Japonica	Azuenca	328	AZ	210	Control	Control	Control	leaf
+SRX1423961	Japonica	Azuenca	328	AZ	225	Control	Control	Control	leaf
+SRX1423962	Japonica	Azuenca	328	AZ	225	Control	Control	Control	leaf
+SRX1423963	Japonica	Azuenca	328	AZ	225	Control	Control	Control	leaf
+SRX1423964	Japonica	Azuenca	328	AZ	240	Control	Control	Control	leaf
+SRX1423965	Japonica	Azuenca	328	AZ	270	Control	Control	Control	leaf
+SRX1423966	Japonica	Azuenca	328	AZ	270	Control	Control	Control	leaf
+SRX1423967	Japonica	Azuenca	328	AZ	300	Control	Control	Control	leaf
+SRX1423968	Japonica	Azuenca	328	AZ	300	Control	Control	Control	leaf
+SRX1423969	Japonica	Azuenca	328	AZ	15	Heat	Heat	Heat	leaf
+SRX1423970	Japonica	Azuenca	328	AZ	15	Heat	Heat	Heat	leaf
+SRX1423971	Japonica	Azuenca	328	AZ	30	Heat	Heat	Heat	leaf
+SRX1423972	Japonica	Azuenca	328	AZ	30	Heat	Heat	Heat	leaf
+SRX1423973	Japonica	Azuenca	328	AZ	45	Heat	Heat	Heat	leaf
+SRX1423974	Japonica	Azuenca	328	AZ	45	Heat	Heat	Heat	leaf
+SRX1423975	Japonica	Azuenca	328	AZ	60	Heat	Heat	Heat	leaf
+SRX1423976	Japonica	Azuenca	328	AZ	60	Heat	Heat	Heat	leaf
+SRX1423977	Japonica	Azuenca	328	AZ	75	Heat	Heat	Heat	leaf
+SRX1423978	Japonica	Azuenca	328	AZ	75	Heat	Heat	Heat	leaf
+SRX1423979	Japonica	Azuenca	328	AZ	90	Heat	Heat	Heat	leaf
+SRX1423980	Japonica	Azuenca	328	AZ	90	Heat	Heat	Heat	leaf
+SRX1423981	Japonica	Azuenca	328	AZ	105	Heat	Heat	Heat	leaf
+SRX1423982	Japonica	Azuenca	328	AZ	105	Heat	Heat	Heat	leaf
+SRX1423983	Japonica	Azuenca	328	AZ	120	Heat	Heat	Heat	leaf
+SRX1423984	Japonica	Azuenca	328	AZ	120	Heat	Heat	Heat	leaf
+SRX1423985	Japonica	Azuenca	328	AZ	135	Heat	Heat	Heat	leaf
+SRX1423986	Japonica	Azuenca	328	AZ	135	Heat	Heat	Heat	leaf
+SRX1423987	Japonica	Azuenca	328	AZ	150	Heat	Heat	Heat	leaf
+SRX1423988	Japonica	Azuenca	328	AZ	150	Heat	Heat	Heat	leaf
+SRX1423989	Japonica	Azuenca	328	AZ	165	Heat	Heat	Heat	leaf
+SRX1423990	Japonica	Azuenca	328	AZ	165	Heat	Heat	Heat	leaf
+SRX1423991	Japonica	Azuenca	328	AZ	180	Heat	Heat	Heat	leaf
+SRX1423992	Japonica	Azuenca	328	AZ	180	Heat	Heat	Heat	leaf
+SRX1423993	Japonica	Azuenca	328	AZ	195	Heat	Heat	Heat	leaf
+SRX1423994	Japonica	Azuenca	328	AZ	195	Heat	Heat	Heat	leaf
+SRX1423995	Japonica	Azuenca	328	AZ	210	Heat	Heat	Heat	leaf
+SRX1423996	Japonica	Azuenca	328	AZ	210	Heat	Heat	Heat	leaf
+SRX1423997	Japonica	Azuenca	328	AZ	225	Heat	Heat	Heat	leaf
+SRX1423998	Japonica	Azuenca	328	AZ	225	Heat	Heat	Heat	leaf
+SRX1423999	Japonica	Azuenca	328	AZ	240	Heat	Heat	Heat	leaf
+SRX1424000	Japonica	Azuenca	328	AZ	240	Heat	Heat	Heat	leaf
+SRX1424001	Japonica	Azuenca	328	AZ	135	Heat Recovery	Heat	Heat	leaf
+SRX1424002	Japonica	Azuenca	328	AZ	135	Heat Recovery	Heat	Heat	leaf
+SRX1424003	Japonica	Azuenca	328	AZ	150	Heat Recovery	Heat	Heat	leaf
+SRX1424004	Japonica	Azuenca	328	AZ	150	Heat Recovery	Heat	Heat	leaf
+SRX1424005	Japonica	Azuenca	328	AZ	165	Heat Recovery	Heat	Heat	leaf
+SRX1424006	Japonica	Azuenca	328	AZ	165	Heat Recovery	Heat	Heat	leaf
+SRX1424007	Japonica	Azuenca	328	AZ	180	Heat Recovery	Heat	Heat	leaf
+SRX1424008	Japonica	Azuenca	328	AZ	180	Heat Recovery	Heat	Heat	leaf
+SRX1424009	Japonica	Azuenca	328	AZ	195	Heat Recovery	Heat	Heat	leaf
+SRX1424010	Japonica	Azuenca	328	AZ	195	Heat Recovery	Heat	Heat	leaf
+SRX1424011	Japonica	Azuenca	328	AZ	210	Heat Recovery	Heat	Heat	leaf
+SRX1424012	Japonica	Azuenca	328	AZ	210	Heat Recovery	Heat	Heat	leaf
+SRX1424013	Japonica	Azuenca	328	AZ	225	Heat Recovery	Heat	Heat	leaf
+SRX1424014	Japonica	Azuenca	328	AZ	225	Heat Recovery	Heat	Heat	leaf
+SRX1424015	Japonica	Azuenca	328	AZ	240	Heat Recovery	Heat	Heat	leaf
+SRX1424016	Japonica	Azuenca	328	AZ	240	Heat Recovery	Heat	Heat	leaf
+SRX1424017	Japonica	Azuenca	328	AZ	15	Drought	Drought	Drought-AZ	leaf
+SRX1424018	Japonica	Azuenca	328	AZ	15	Drought	Drought	Drought-AZ	leaf
+SRX1424019	Japonica	Azuenca	328	AZ	30	Drought	Drought	Drought-AZ	leaf
+SRX1424020	Japonica	Azuenca	328	AZ	30	Drought	Drought	Drought-AZ	leaf
+SRX1424021	Japonica	Azuenca	328	AZ	45	Drought	Drought	Drought-AZ	leaf
+SRX1424022	Japonica	Azuenca	328	AZ	45	Drought	Drought	Drought-AZ	leaf
+SRX1424023	Japonica	Azuenca	328	AZ	60	Drought	Drought	Drought-AZ	leaf
+SRX1424024	Japonica	Azuenca	328	AZ	60	Drought	Drought	Drought-AZ	leaf
+SRX1424025	Japonica	Azuenca	328	AZ	75	Drought	Drought	Drought-AZ	leaf
+SRX1424026	Japonica	Azuenca	328	AZ	75	Drought	Drought	Drought-AZ	leaf
+SRX1424027	Japonica	Azuenca	328	AZ	90	Drought	Drought	Drought-AZ	leaf
+SRX1424028	Japonica	Azuenca	328	AZ	90	Drought	Drought	Drought-AZ	leaf
+SRX1424029	Japonica	Azuenca	328	AZ	105	Drought	Drought	Drought-AZ	leaf
+SRX1424030	Japonica	Azuenca	328	AZ	105	Drought	Drought	Drought-AZ	leaf
+SRX1424031	Japonica	Azuenca	328	AZ	120	Drought	Drought	Drought-AZ	leaf
+SRX1424032	Japonica	Azuenca	328	AZ	120	Drought	Drought	Drought-AZ	leaf
+SRX1424033	Japonica	Azuenca	328	AZ	135	Drought	Drought	Drought-AZ	leaf
+SRX1424034	Japonica	Azuenca	328	AZ	135	Drought	Drought	Drought-AZ	leaf
+SRX1424035	Japonica	Azuenca	328	AZ	105	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424036	Japonica	Azuenca	328	AZ	105	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424037	Japonica	Azuenca	328	AZ	120	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424038	Japonica	Azuenca	328	AZ	120	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424039	Japonica	Azuenca	328	AZ	150	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424040	Japonica	Azuenca	328	AZ	150	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424041	Japonica	Azuenca	328	AZ	165	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424042	Japonica	Azuenca	328	AZ	165	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424043	Japonica	Azuenca	328	AZ	180	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424044	Japonica	Azuenca	328	AZ	180	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424045	Japonica	Azuenca	328	AZ	210	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424046	Japonica	Azuenca	328	AZ	210	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424047	Japonica	Azuenca	328	AZ	240	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424048	Japonica	Azuenca	328	AZ	240	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424049	Japonica	Azuenca	328	AZ	270	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424050	Japonica	Azuenca	328	AZ	270	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424051	Japonica	Azuenca	328	AZ	300	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424052	Japonica	Azuenca	328	AZ	300	Drought Recovery	Drought	Drought-AZ	leaf
+SRX1424053	Indica	Kinandang puti	44513	KP	15	Control	Control	Control	leaf
+SRX1424054	Indica	Kinandang puti	44513	KP	15	Control	Control	Control	leaf
+SRX1424055	Indica	Kinandang puti	44513	KP	30	Control	Control	Control	leaf
+SRX1424056	Indica	Kinandang puti	44513	KP	30	Control	Control	Control	leaf
+SRX1424057	Indica	Kinandang puti	44513	KP	45	Control	Control	Control	leaf
+SRX1424058	Indica	Kinandang puti	44513	KP	45	Control	Control	Control	leaf
+SRX1424059	Indica	Kinandang puti	44513	KP	60	Control	Control	Control	leaf
+SRX1424060	Indica	Kinandang puti	44513	KP	60	Control	Control	Control	leaf
+SRX1424061	Indica	Kinandang puti	44513	KP	75	Control	Control	Control	leaf
+SRX1424062	Indica	Kinandang puti	44513	KP	75	Control	Control	Control	leaf
+SRX1424063	Indica	Kinandang puti	44513	KP	90	Control	Control	Control	leaf
+SRX1424064	Indica	Kinandang puti	44513	KP	90	Control	Control	Control	leaf
+SRX1424065	Indica	Kinandang puti	44513	KP	105	Control	Control	Control	leaf
+SRX1424066	Indica	Kinandang puti	44513	KP	105	Control	Control	Control	leaf
+SRX1424067	Indica	Kinandang puti	44513	KP	120	Control	Control	Control	leaf
+SRX1424068	Indica	Kinandang puti	44513	KP	120	Control	Control	Control	leaf
+SRX1424069	Indica	Kinandang puti	44513	KP	135	Control	Control	Control	leaf
+SRX1424070	Indica	Kinandang puti	44513	KP	135	Control	Control	Control	leaf
+SRX1424071	Indica	Kinandang puti	44513	KP	150	Control	Control	Control	leaf
+SRX1424072	Indica	Kinandang puti	44513	KP	150	Control	Control	Control	leaf
+SRX1424073	Indica	Kinandang puti	44513	KP	165	Control	Control	Control	leaf
+SRX1424074	Indica	Kinandang puti	44513	KP	165	Control	Control	Control	leaf
+SRX1424075	Indica	Kinandang puti	44513	KP	180	Control	Control	Control	leaf
+SRX1424076	Indica	Kinandang puti	44513	KP	180	Control	Control	Control	leaf
+SRX1424077	Indica	Kinandang puti	44513	KP	195	Control	Control	Control	leaf
+SRX1424078	Indica	Kinandang puti	44513	KP	195	Control	Control	Control	leaf
+SRX1424079	Indica	Kinandang puti	44513	KP	210	Control	Control	Control	leaf
+SRX1424080	Indica	Kinandang puti	44513	KP	210	Control	Control	Control	leaf
+SRX1424081	Indica	Kinandang puti	44513	KP	225	Control	Control	Control	leaf
+SRX1424082	Indica	Kinandang puti	44513	KP	225	Control	Control	Control	leaf
+SRX1424083	Indica	Kinandang puti	44513	KP	240	Control	Control	Control	leaf
+SRX1424084	Indica	Kinandang puti	44513	KP	240	Control	Control	Control	leaf
+SRX1424085	Indica	Kinandang puti	44513	KP	270	Control	Control	Control	leaf
+SRX1424086	Indica	Kinandang puti	44513	KP	270	Control	Control	Control	leaf
+SRX1424087	Indica	Kinandang puti	44513	KP	300	Control	Control	Control	leaf
+SRX1424088	Indica	Kinandang puti	44513	KP	300	Control	Control	Control	leaf
+SRX1424089	Indica	Kinandang puti	44513	KP	15	Heat	Heat	Heat	leaf
+SRX1424090	Indica	Kinandang puti	44513	KP	15	Heat	Heat	Heat	leaf
+SRX1424091	Indica	Kinandang puti	44513	KP	30	Heat	Heat	Heat	leaf
+SRX1424092	Indica	Kinandang puti	44513	KP	30	Heat	Heat	Heat	leaf
+SRX1424093	Indica	Kinandang puti	44513	KP	45	Heat	Heat	Heat	leaf
+SRX1424094	Indica	Kinandang puti	44513	KP	45	Heat	Heat	Heat	leaf
+SRX1424095	Indica	Kinandang puti	44513	KP	60	Heat	Heat	Heat	leaf
+SRX1424096	Indica	Kinandang puti	44513	KP	60	Heat	Heat	Heat	leaf
+SRX1424097	Indica	Kinandang puti	44513	KP	75	Heat	Heat	Heat	leaf
+SRX1424098	Indica	Kinandang puti	44513	KP	75	Heat	Heat	Heat	leaf
+SRX1424099	Indica	Kinandang puti	44513	KP	90	Heat	Heat	Heat	leaf
+SRX1424100	Indica	Kinandang puti	44513	KP	90	Heat	Heat	Heat	leaf
+SRX1424101	Indica	Kinandang puti	44513	KP	105	Heat	Heat	Heat	leaf
+SRX1424102	Indica	Kinandang puti	44513	KP	105	Heat	Heat	Heat	leaf
+SRX1424103	Indica	Kinandang puti	44513	KP	120	Heat	Heat	Heat	leaf
+SRX1424104	Indica	Kinandang puti	44513	KP	120	Heat	Heat	Heat	leaf
+SRX1424105	Indica	Kinandang puti	44513	KP	135	Heat	Heat	Heat	leaf
+SRX1424106	Indica	Kinandang puti	44513	KP	135	Heat	Heat	Heat	leaf
+SRX1424107	Indica	Kinandang puti	44513	KP	150	Heat	Heat	Heat	leaf
+SRX1424108	Indica	Kinandang puti	44513	KP	150	Heat	Heat	Heat	leaf
+SRX1424109	Indica	Kinandang puti	44513	KP	165	Heat	Heat	Heat	leaf
+SRX1424110	Indica	Kinandang puti	44513	KP	165	Heat	Heat	Heat	leaf
+SRX1424111	Indica	Kinandang puti	44513	KP	180	Heat	Heat	Heat	leaf
+SRX1424112	Indica	Kinandang puti	44513	KP	180	Heat	Heat	Heat	leaf
+SRX1424113	Indica	Kinandang puti	44513	KP	195	Heat	Heat	Heat	leaf
+SRX1424114	Indica	Kinandang puti	44513	KP	195	Heat	Heat	Heat	leaf
+SRX1424115	Indica	Kinandang puti	44513	KP	210	Heat	Heat	Heat	leaf
+SRX1424116	Indica	Kinandang puti	44513	KP	210	Heat	Heat	Heat	leaf
+SRX1424117	Indica	Kinandang puti	44513	KP	225	Heat	Heat	Heat	leaf
+SRX1424118	Indica	Kinandang puti	44513	KP	225	Heat	Heat	Heat	leaf
+SRX1424119	Indica	Kinandang puti	44513	KP	240	Heat	Heat	Heat	leaf
+SRX1424120	Indica	Kinandang puti	44513	KP	240	Heat	Heat	Heat	leaf
+SRX1424121	Indica	Kinandang puti	44513	KP	135	Heat Recovery	Heat	Heat	leaf
+SRX1424122	Indica	Kinandang puti	44513	KP	150	Heat Recovery	Heat	Heat	leaf
+SRX1424123	Indica	Kinandang puti	44513	KP	150	Heat Recovery	Heat	Heat	leaf
+SRX1424124	Indica	Kinandang puti	44513	KP	165	Heat Recovery	Heat	Heat	leaf
+SRX1424125	Indica	Kinandang puti	44513	KP	165	Heat Recovery	Heat	Heat	leaf
+SRX1424126	Indica	Kinandang puti	44513	KP	180	Heat Recovery	Heat	Heat	leaf
+SRX1424127	Indica	Kinandang puti	44513	KP	180	Heat Recovery	Heat	Heat	leaf
+SRX1424128	Indica	Kinandang puti	44513	KP	195	Heat Recovery	Heat	Heat	leaf
+SRX1424129	Indica	Kinandang puti	44513	KP	195	Heat Recovery	Heat	Heat	leaf
+SRX1424130	Indica	Kinandang puti	44513	KP	210	Heat Recovery	Heat	Heat	leaf
+SRX1424131	Indica	Kinandang puti	44513	KP	210	Heat Recovery	Heat	Heat	leaf
+SRX1424132	Indica	Kinandang puti	44513	KP	225	Heat Recovery	Heat	Heat	leaf
+SRX1424133	Indica	Kinandang puti	44513	KP	225	Heat Recovery	Heat	Heat	leaf
+SRX1424134	Indica	Kinandang puti	44513	KP	240	Heat Recovery	Heat	Heat	leaf
+SRX1424135	Indica	Kinandang puti	44513	KP	240	Heat Recovery	Heat	Heat	leaf
+SRX1424136	Indica	Kinandang puti	44513	KP	15	Drought	Drought	Drought-KP	leaf
+SRX1424137	Indica	Kinandang puti	44513	KP	15	Drought	Drought	Drought-KP	leaf
+SRX1424138	Indica	Kinandang puti	44513	KP	30	Drought	Drought	Drought-KP	leaf
+SRX1424139	Indica	Kinandang puti	44513	KP	30	Drought	Drought	Drought-KP	leaf
+SRX1424140	Indica	Kinandang puti	44513	KP	45	Drought	Drought	Drought-KP	leaf
+SRX1424141	Indica	Kinandang puti	44513	KP	45	Drought	Drought	Drought-KP	leaf
+SRX1424142	Indica	Kinandang puti	44513	KP	60	Drought	Drought	Drought-KP	leaf
+SRX1424143	Indica	Kinandang puti	44513	KP	60	Drought	Drought	Drought-KP	leaf
+SRX1424144	Indica	Kinandang puti	44513	KP	75	Drought	Drought	Drought-KP	leaf
+SRX1424145	Indica	Kinandang puti	44513	KP	75	Drought	Drought	Drought-KP	leaf
+SRX1424146	Indica	Kinandang puti	44513	KP	90	Drought	Drought	Drought-KP	leaf
+SRX1424147	Indica	Kinandang puti	44513	KP	105	Drought	Drought	Drought-KP	leaf
+SRX1424148	Indica	Kinandang puti	44513	KP	105	Drought	Drought	Drought-KP	leaf
+SRX1424149	Indica	Kinandang puti	44513	KP	120	Drought	Drought	Drought-KP	leaf
+SRX1424150	Indica	Kinandang puti	44513	KP	120	Drought	Drought	Drought-KP	leaf
+SRX1424151	Indica	Kinandang puti	44513	KP	135	Drought	Drought	Drought-KP	leaf
+SRX1424152	Indica	Kinandang puti	44513	KP	135	Drought	Drought	Drought-KP	leaf
+SRX1424153	Indica	Kinandang puti	44513	KP	105	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424154	Indica	Kinandang puti	44513	KP	105	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424155	Indica	Kinandang puti	44513	KP	120	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424156	Indica	Kinandang puti	44513	KP	120	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424157	Indica	Kinandang puti	44513	KP	150	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424158	Indica	Kinandang puti	44513	KP	150	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424159	Indica	Kinandang puti	44513	KP	165	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424160	Indica	Kinandang puti	44513	KP	165	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424161	Indica	Kinandang puti	44513	KP	180	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424162	Indica	Kinandang puti	44513	KP	180	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424163	Indica	Kinandang puti	44513	KP	210	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424164	Indica	Kinandang puti	44513	KP	210	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424165	Indica	Kinandang puti	44513	KP	240	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424166	Indica	Kinandang puti	44513	KP	240	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424167	Indica	Kinandang puti	44513	KP	270	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424168	Indica	Kinandang puti	44513	KP	270	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424169	Indica	Kinandang puti	44513	KP	300	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424170	Indica	Kinandang puti	44513	KP	300	Drought Recovery	Drought	Drought-KP	leaf
+SRX1424171	Japonica	Pandan wangi	35834	PW	15	Control	Control	Control	leaf
+SRX1424172	Japonica	Pandan wangi	35834	PW	15	Control	Control	Control	leaf
+SRX1424173	Japonica	Pandan wangi	35834	PW	30	Control	Control	Control	leaf
+SRX1424174	Japonica	Pandan wangi	35834	PW	30	Control	Control	Control	leaf
+SRX1424175	Japonica	Pandan wangi	35834	PW	45	Control	Control	Control	leaf
+SRX1424176	Japonica	Pandan wangi	35834	PW	45	Control	Control	Control	leaf
+SRX1424177	Japonica	Pandan wangi	35834	PW	60	Control	Control	Control	leaf
+SRX1424178	Japonica	Pandan wangi	35834	PW	60	Control	Control	Control	leaf
+SRX1424179	Japonica	Pandan wangi	35834	PW	75	Control	Control	Control	leaf
+SRX1424180	Japonica	Pandan wangi	35834	PW	75	Control	Control	Control	leaf
+SRX1424181	Japonica	Pandan wangi	35834	PW	90	Control	Control	Control	leaf
+SRX1424182	Japonica	Pandan wangi	35834	PW	90	Control	Control	Control	leaf
+SRX1424183	Japonica	Pandan wangi	35834	PW	105	Control	Control	Control	leaf
+SRX1424184	Japonica	Pandan wangi	35834	PW	105	Control	Control	Control	leaf
+SRX1424185	Japonica	Pandan wangi	35834	PW	120	Control	Control	Control	leaf
+SRX1424186	Japonica	Pandan wangi	35834	PW	120	Control	Control	Control	leaf
+SRX1424187	Japonica	Pandan wangi	35834	PW	135	Control	Control	Control	leaf
+SRX1424188	Japonica	Pandan wangi	35834	PW	135	Control	Control	Control	leaf
+SRX1424189	Japonica	Pandan wangi	35834	PW	150	Control	Control	Control	leaf
+SRX1424190	Japonica	Pandan wangi	35834	PW	150	Control	Control	Control	leaf
+SRX1424191	Japonica	Pandan wangi	35834	PW	165	Control	Control	Control	leaf
+SRX1424192	Japonica	Pandan wangi	35834	PW	165	Control	Control	Control	leaf
+SRX1424193	Japonica	Pandan wangi	35834	PW	180	Control	Control	Control	leaf
+SRX1424194	Japonica	Pandan wangi	35834	PW	180	Control	Control	Control	leaf
+SRX1424195	Japonica	Pandan wangi	35834	PW	195	Control	Control	Control	leaf
+SRX1424196	Japonica	Pandan wangi	35834	PW	195	Control	Control	Control	leaf
+SRX1424197	Japonica	Pandan wangi	35834	PW	210	Control	Control	Control	leaf
+SRX1424198	Japonica	Pandan wangi	35834	PW	210	Control	Control	Control	leaf
+SRX1424199	Japonica	Pandan wangi	35834	PW	225	Control	Control	Control	leaf
+SRX1424200	Japonica	Pandan wangi	35834	PW	225	Control	Control	Control	leaf
+SRX1424201	Japonica	Pandan wangi	35834	PW	240	Control	Control	Control	leaf
+SRX1424202	Japonica	Pandan wangi	35834	PW	240	Control	Control	Control	leaf
+SRX1424203	Japonica	Pandan wangi	35834	PW	270	Control	Control	Control	leaf
+SRX1424204	Japonica	Pandan wangi	35834	PW	270	Control	Control	Control	leaf
+SRX1424205	Japonica	Pandan wangi	35834	PW	300	Control	Control	Control	leaf
+SRX1424206	Japonica	Pandan wangi	35834	PW	300	Control	Control	Control	leaf
+SRX1424207	Japonica	Pandan wangi	35834	PW	15	Heat	Heat	Heat	leaf
+SRX1424208	Japonica	Pandan wangi	35834	PW	15	Heat	Heat	Heat	leaf
+SRX1424209	Japonica	Pandan wangi	35834	PW	30	Heat	Heat	Heat	leaf
+SRX1424210	Japonica	Pandan wangi	35834	PW	30	Heat	Heat	Heat	leaf
+SRX1424211	Japonica	Pandan wangi	35834	PW	45	Heat	Heat	Heat	leaf
+SRX1424212	Japonica	Pandan wangi	35834	PW	45	Heat	Heat	Heat	leaf
+SRX1424213	Japonica	Pandan wangi	35834	PW	60	Heat	Heat	Heat	leaf
+SRX1424214	Japonica	Pandan wangi	35834	PW	60	Heat	Heat	Heat	leaf
+SRX1424215	Japonica	Pandan wangi	35834	PW	75	Heat	Heat	Heat	leaf
+SRX1424216	Japonica	Pandan wangi	35834	PW	75	Heat	Heat	Heat	leaf
+SRX1424217	Japonica	Pandan wangi	35834	PW	90	Heat	Heat	Heat	leaf
+SRX1424218	Japonica	Pandan wangi	35834	PW	90	Heat	Heat	Heat	leaf
+SRX1424219	Japonica	Pandan wangi	35834	PW	105	Heat	Heat	Heat	leaf
+SRX1424220	Japonica	Pandan wangi	35834	PW	105	Heat	Heat	Heat	leaf
+SRX1424221	Japonica	Pandan wangi	35834	PW	120	Heat	Heat	Heat	leaf
+SRX1424222	Japonica	Pandan wangi	35834	PW	120	Heat	Heat	Heat	leaf
+SRX1424223	Japonica	Pandan wangi	35834	PW	135	Heat	Heat	Heat	leaf
+SRX1424224	Japonica	Pandan wangi	35834	PW	135	Heat	Heat	Heat	leaf
+SRX1424225	Japonica	Pandan wangi	35834	PW	150	Heat	Heat	Heat	leaf
+SRX1424226	Japonica	Pandan wangi	35834	PW	150	Heat	Heat	Heat	leaf
+SRX1424227	Japonica	Pandan wangi	35834	PW	165	Heat	Heat	Heat	leaf
+SRX1424228	Japonica	Pandan wangi	35834	PW	165	Heat	Heat	Heat	leaf
+SRX1424229	Japonica	Pandan wangi	35834	PW	180	Heat	Heat	Heat	leaf
+SRX1424230	Japonica	Pandan wangi	35834	PW	180	Heat	Heat	Heat	leaf
+SRX1424231	Japonica	Pandan wangi	35834	PW	195	Heat	Heat	Heat	leaf
+SRX1424232	Japonica	Pandan wangi	35834	PW	195	Heat	Heat	Heat	leaf
+SRX1424233	Japonica	Pandan wangi	35834	PW	210	Heat	Heat	Heat	leaf
+SRX1424234	Japonica	Pandan wangi	35834	PW	210	Heat	Heat	Heat	leaf
+SRX1424235	Japonica	Pandan wangi	35834	PW	225	Heat	Heat	Heat	leaf
+SRX1424236	Japonica	Pandan wangi	35834	PW	225	Heat	Heat	Heat	leaf
+SRX1424237	Japonica	Pandan wangi	35834	PW	240	Heat	Heat	Heat	leaf
+SRX1424238	Japonica	Pandan wangi	35834	PW	240	Heat	Heat	Heat	leaf
+SRX1424239	Japonica	Pandan wangi	35834	PW	135	Heat Recovery	Heat	Heat	leaf
+SRX1424240	Japonica	Pandan wangi	35834	PW	135	Heat Recovery	Heat	Heat	leaf
+SRX1424241	Japonica	Pandan wangi	35834	PW	150	Heat Recovery	Heat	Heat	leaf
+SRX1424242	Japonica	Pandan wangi	35834	PW	150	Heat Recovery	Heat	Heat	leaf
+SRX1424243	Japonica	Pandan wangi	35834	PW	165	Heat Recovery	Heat	Heat	leaf
+SRX1424244	Japonica	Pandan wangi	35834	PW	165	Heat Recovery	Heat	Heat	leaf
+SRX1424245	Japonica	Pandan wangi	35834	PW	180	Heat Recovery	Heat	Heat	leaf
+SRX1424246	Japonica	Pandan wangi	35834	PW	180	Heat Recovery	Heat	Heat	leaf
+SRX1424247	Japonica	Pandan wangi	35834	PW	195	Heat Recovery	Heat	Heat	leaf
+SRX1424248	Japonica	Pandan wangi	35834	PW	195	Heat Recovery	Heat	Heat	leaf
+SRX1424249	Japonica	Pandan wangi	35834	PW	210	Heat Recovery	Heat	Heat	leaf
+SRX1424250	Japonica	Pandan wangi	35834	PW	210	Heat Recovery	Heat	Heat	leaf
+SRX1424251	Japonica	Pandan wangi	35834	PW	225	Heat Recovery	Heat	Heat	leaf
+SRX1424252	Japonica	Pandan wangi	35834	PW	225	Heat Recovery	Heat	Heat	leaf
+SRX1424253	Japonica	Pandan wangi	35834	PW	240	Heat Recovery	Heat	Heat	leaf
+SRX1424254	Japonica	Pandan wangi	35834	PW	240	Heat Recovery	Heat	Heat	leaf
+SRX1424255	Japonica	Pandan wangi	35834	PW	15	Drought	Drought	Drought-PW	leaf
+SRX1424256	Japonica	Pandan wangi	35834	PW	15	Drought	Drought	Drought-PW	leaf
+SRX1424257	Japonica	Pandan wangi	35834	PW	30	Drought	Drought	Drought-PW	leaf
+SRX1424258	Japonica	Pandan wangi	35834	PW	30	Drought	Drought	Drought-PW	leaf
+SRX1424259	Japonica	Pandan wangi	35834	PW	45	Drought	Drought	Drought-PW	leaf
+SRX1424260	Japonica	Pandan wangi	35834	PW	45	Drought	Drought	Drought-PW	leaf
+SRX1424261	Japonica	Pandan wangi	35834	PW	60	Drought	Drought	Drought-PW	leaf
+SRX1424262	Japonica	Pandan wangi	35834	PW	60	Drought	Drought	Drought-PW	leaf
+SRX1424263	Japonica	Pandan wangi	35834	PW	75	Drought	Drought	Drought-PW	leaf
+SRX1424264	Japonica	Pandan wangi	35834	PW	75	Drought	Drought	Drought-PW	leaf
+SRX1424265	Japonica	Pandan wangi	35834	PW	90	Drought	Drought	Drought-PW	leaf
+SRX1424266	Japonica	Pandan wangi	35834	PW	90	Drought	Drought	Drought-PW	leaf
+SRX1424267	Japonica	Pandan wangi	35834	PW	105	Drought	Drought	Drought-PW	leaf
+SRX1424268	Japonica	Pandan wangi	35834	PW	105	Drought	Drought	Drought-PW	leaf
+SRX1424269	Japonica	Pandan wangi	35834	PW	120	Drought	Drought	Drought-PW	leaf
+SRX1424270	Japonica	Pandan wangi	35834	PW	120	Drought	Drought	Drought-PW	leaf
+SRX1424271	Japonica	Pandan wangi	35834	PW	135	Drought	Drought	Drought-PW	leaf
+SRX1424272	Japonica	Pandan wangi	35834	PW	135	Drought	Drought	Drought-PW	leaf
+SRX1424273	Japonica	Pandan wangi	35834	PW	105	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424274	Japonica	Pandan wangi	35834	PW	120	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424275	Japonica	Pandan wangi	35834	PW	120	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424276	Japonica	Pandan wangi	35834	PW	150	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424277	Japonica	Pandan wangi	35834	PW	150	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424278	Japonica	Pandan wangi	35834	PW	165	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424279	Japonica	Pandan wangi	35834	PW	165	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424280	Japonica	Pandan wangi	35834	PW	180	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424281	Japonica	Pandan wangi	35834	PW	180	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424282	Japonica	Pandan wangi	35834	PW	210	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424283	Japonica	Pandan wangi	35834	PW	210	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424284	Japonica	Pandan wangi	35834	PW	240	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424285	Japonica	Pandan wangi	35834	PW	240	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424286	Japonica	Pandan wangi	35834	PW	270	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424287	Japonica	Pandan wangi	35834	PW	270	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424288	Japonica	Pandan wangi	35834	PW	300	Drought Recovery	Drought	Drought-PW	leaf
+SRX1424289	Indica	Tadukan	9804	TD	15	Control	Control	Control	leaf
+SRX1424290	Indica	Tadukan	9804	TD	15	Control	Control	Control	leaf
+SRX1424291	Indica	Tadukan	9804	TD	30	Control	Control	Control	leaf
+SRX1424292	Indica	Tadukan	9804	TD	30	Control	Control	Control	leaf
+SRX1424293	Indica	Tadukan	9804	TD	45	Control	Control	Control	leaf
+SRX1424294	Indica	Tadukan	9804	TD	45	Control	Control	Control	leaf
+SRX1424295	Indica	Tadukan	9804	TD	60	Control	Control	Control	leaf
+SRX1424296	Indica	Tadukan	9804	TD	60	Control	Control	Control	leaf
+SRX1424297	Indica	Tadukan	9804	TD	75	Control	Control	Control	leaf
+SRX1424298	Indica	Tadukan	9804	TD	75	Control	Control	Control	leaf
+SRX1424299	Indica	Tadukan	9804	TD	90	Control	Control	Control	leaf
+SRX1424300	Indica	Tadukan	9804	TD	90	Control	Control	Control	leaf
+SRX1424301	Indica	Tadukan	9804	TD	105	Control	Control	Control	leaf
+SRX1424302	Indica	Tadukan	9804	TD	105	Control	Control	Control	leaf
+SRX1424303	Indica	Tadukan	9804	TD	120	Control	Control	Control	leaf
+SRX1424304	Indica	Tadukan	9804	TD	120	Control	Control	Control	leaf
+SRX1424305	Indica	Tadukan	9804	TD	135	Control	Control	Control	leaf
+SRX1424306	Indica	Tadukan	9804	TD	135	Control	Control	Control	leaf
+SRX1424307	Indica	Tadukan	9804	TD	150	Control	Control	Control	leaf
+SRX1424308	Indica	Tadukan	9804	TD	150	Control	Control	Control	leaf
+SRX1424309	Indica	Tadukan	9804	TD	165	Control	Control	Control	leaf
+SRX1424310	Indica	Tadukan	9804	TD	165	Control	Control	Control	leaf
+SRX1424311	Indica	Tadukan	9804	TD	180	Control	Control	Control	leaf
+SRX1424312	Indica	Tadukan	9804	TD	180	Control	Control	Control	leaf
+SRX1424313	Indica	Tadukan	9804	TD	195	Control	Control	Control	leaf
+SRX1424314	Indica	Tadukan	9804	TD	195	Control	Control	Control	leaf
+SRX1424315	Indica	Tadukan	9804	TD	210	Control	Control	Control	leaf
+SRX1424316	Indica	Tadukan	9804	TD	210	Control	Control	Control	leaf
+SRX1424317	Indica	Tadukan	9804	TD	225	Control	Control	Control	leaf
+SRX1424318	Indica	Tadukan	9804	TD	225	Control	Control	Control	leaf
+SRX1424319	Indica	Tadukan	9804	TD	240	Control	Control	Control	leaf
+SRX1424320	Indica	Tadukan	9804	TD	240	Control	Control	Control	leaf
+SRX1424321	Indica	Tadukan	9804	TD	270	Control	Control	Control	leaf
+SRX1424322	Indica	Tadukan	9804	TD	270	Control	Control	Control	leaf
+SRX1424323	Indica	Tadukan	9804	TD	300	Control	Control	Control	leaf
+SRX1424324	Indica	Tadukan	9804	TD	300	Control	Control	Control	leaf
+SRX1424325	Indica	Tadukan	9804	TD	15	Heat	Heat	Heat	leaf
+SRX1424326	Indica	Tadukan	9804	TD	15	Heat	Heat	Heat	leaf
+SRX1424327	Indica	Tadukan	9804	TD	30	Heat	Heat	Heat	leaf
+SRX1424328	Indica	Tadukan	9804	TD	30	Heat	Heat	Heat	leaf
+SRX1424329	Indica	Tadukan	9804	TD	45	Heat	Heat	Heat	leaf
+SRX1424330	Indica	Tadukan	9804	TD	45	Heat	Heat	Heat	leaf
+SRX1424331	Indica	Tadukan	9804	TD	60	Heat	Heat	Heat	leaf
+SRX1424332	Indica	Tadukan	9804	TD	60	Heat	Heat	Heat	leaf
+SRX1424333	Indica	Tadukan	9804	TD	75	Heat	Heat	Heat	leaf
+SRX1424334	Indica	Tadukan	9804	TD	75	Heat	Heat	Heat	leaf
+SRX1424335	Indica	Tadukan	9804	TD	90	Heat	Heat	Heat	leaf
+SRX1424336	Indica	Tadukan	9804	TD	90	Heat	Heat	Heat	leaf
+SRX1424337	Indica	Tadukan	9804	TD	105	Heat	Heat	Heat	leaf
+SRX1424338	Indica	Tadukan	9804	TD	105	Heat	Heat	Heat	leaf
+SRX1424339	Indica	Tadukan	9804	TD	120	Heat	Heat	Heat	leaf
+SRX1424340	Indica	Tadukan	9804	TD	120	Heat	Heat	Heat	leaf
+SRX1424341	Indica	Tadukan	9804	TD	135	Heat	Heat	Heat	leaf
+SRX1424342	Indica	Tadukan	9804	TD	135	Heat	Heat	Heat	leaf
+SRX1424343	Indica	Tadukan	9804	TD	150	Heat	Heat	Heat	leaf
+SRX1424344	Indica	Tadukan	9804	TD	150	Heat	Heat	Heat	leaf
+SRX1424345	Indica	Tadukan	9804	TD	165	Heat	Heat	Heat	leaf
+SRX1424346	Indica	Tadukan	9804	TD	165	Heat	Heat	Heat	leaf
+SRX1424347	Indica	Tadukan	9804	TD	180	Heat	Heat	Heat	leaf
+SRX1424348	Indica	Tadukan	9804	TD	180	Heat	Heat	Heat	leaf
+SRX1424349	Indica	Tadukan	9804	TD	195	Heat	Heat	Heat	leaf
+SRX1424350	Indica	Tadukan	9804	TD	195	Heat	Heat	Heat	leaf
+SRX1424351	Indica	Tadukan	9804	TD	210	Heat	Heat	Heat	leaf
+SRX1424352	Indica	Tadukan	9804	TD	210	Heat	Heat	Heat	leaf
+SRX1424353	Indica	Tadukan	9804	TD	225	Heat	Heat	Heat	leaf
+SRX1424354	Indica	Tadukan	9804	TD	225	Heat	Heat	Heat	leaf
+SRX1424355	Indica	Tadukan	9804	TD	240	Heat	Heat	Heat	leaf
+SRX1424356	Indica	Tadukan	9804	TD	240	Heat	Heat	Heat	leaf
+SRX1424357	Indica	Tadukan	9804	TD	135	Heat Recovery	Heat	Heat	leaf
+SRX1424358	Indica	Tadukan	9804	TD	135	Heat Recovery	Heat	Heat	leaf
+SRX1424359	Indica	Tadukan	9804	TD	150	Heat Recovery	Heat	Heat	leaf
+SRX1424360	Indica	Tadukan	9804	TD	150	Heat Recovery	Heat	Heat	leaf
+SRX1424361	Indica	Tadukan	9804	TD	165	Heat Recovery	Heat	Heat	leaf
+SRX1424362	Indica	Tadukan	9804	TD	165	Heat Recovery	Heat	Heat	leaf
+SRX1424363	Indica	Tadukan	9804	TD	180	Heat Recovery	Heat	Heat	leaf
+SRX1424364	Indica	Tadukan	9804	TD	180	Heat Recovery	Heat	Heat	leaf
+SRX1424365	Indica	Tadukan	9804	TD	195	Heat Recovery	Heat	Heat	leaf
+SRX1424366	Indica	Tadukan	9804	TD	195	Heat Recovery	Heat	Heat	leaf
+SRX1424367	Indica	Tadukan	9804	TD	210	Heat Recovery	Heat	Heat	leaf
+SRX1424368	Indica	Tadukan	9804	TD	210	Heat Recovery	Heat	Heat	leaf
+SRX1424369	Indica	Tadukan	9804	TD	225	Heat Recovery	Heat	Heat	leaf
+SRX1424370	Indica	Tadukan	9804	TD	225	Heat Recovery	Heat	Heat	leaf
+SRX1424371	Indica	Tadukan	9804	TD	240	Heat Recovery	Heat	Heat	leaf
+SRX1424372	Indica	Tadukan	9804	TD	240	Heat Recovery	Heat	Heat	leaf
+SRX1424373	Indica	Tadukan	9804	TD	15	Drought	Drought	Drought-TD	leaf
+SRX1424374	Indica	Tadukan	9804	TD	15	Drought	Drought	Drought-TD	leaf
+SRX1424375	Indica	Tadukan	9804	TD	30	Drought	Drought	Drought-TD	leaf
+SRX1424376	Indica	Tadukan	9804	TD	30	Drought	Drought	Drought-TD	leaf
+SRX1424377	Indica	Tadukan	9804	TD	45	Drought	Drought	Drought-TD	leaf
+SRX1424378	Indica	Tadukan	9804	TD	45	Drought	Drought	Drought-TD	leaf
+SRX1424379	Indica	Tadukan	9804	TD	60	Drought	Drought	Drought-TD	leaf
+SRX1424380	Indica	Tadukan	9804	TD	60	Drought	Drought	Drought-TD	leaf
+SRX1424381	Indica	Tadukan	9804	TD	75	Drought	Drought	Drought-TD	leaf
+SRX1424382	Indica	Tadukan	9804	TD	75	Drought	Drought	Drought-TD	leaf
+SRX1424383	Indica	Tadukan	9804	TD	90	Drought	Drought	Drought-TD	leaf
+SRX1424384	Indica	Tadukan	9804	TD	90	Drought	Drought	Drought-TD	leaf
+SRX1424385	Indica	Tadukan	9804	TD	105	Drought	Drought	Drought-TD	leaf
+SRX1424386	Indica	Tadukan	9804	TD	105	Drought	Drought	Drought-TD	leaf
+SRX1424387	Indica	Tadukan	9804	TD	120	Drought	Drought	Drought-TD	leaf
+SRX1424388	Indica	Tadukan	9804	TD	120	Drought	Drought	Drought-TD	leaf
+SRX1424389	Indica	Tadukan	9804	TD	135	Drought	Drought	Drought-TD	leaf
+SRX1424390	Indica	Tadukan	9804	TD	135	Drought	Drought	Drought-TD	leaf
+SRX1424391	Indica	Tadukan	9804	TD	105	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424392	Indica	Tadukan	9804	TD	105	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424393	Indica	Tadukan	9804	TD	120	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424394	Indica	Tadukan	9804	TD	120	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424395	Indica	Tadukan	9804	TD	150	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424396	Indica	Tadukan	9804	TD	150	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424397	Indica	Tadukan	9804	TD	165	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424398	Indica	Tadukan	9804	TD	165	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424399	Indica	Tadukan	9804	TD	180	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424400	Indica	Tadukan	9804	TD	180	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424401	Indica	Tadukan	9804	TD	210	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424402	Indica	Tadukan	9804	TD	210	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424403	Indica	Tadukan	9804	TD	240	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424404	Indica	Tadukan	9804	TD	240	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424405	Indica	Tadukan	9804	TD	270	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424406	Indica	Tadukan	9804	TD	270	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424407	Indica	Tadukan	9804	TD	300	Drought Recovery	Drought	Drought-TD	leaf
+SRX1424408	Indica	Tadukan	9804	TD	300	Drought Recovery	Drought	Drought-TD	leaf

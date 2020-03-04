@@ -1,0 +1,5 @@
+*.emx
+*.trm
+*.knn
+*_dist.txt
+*_ind.txt
